@@ -5,16 +5,16 @@
     </div>
     <div>
       <ol class="flex">
-        <li class="px-4">Home</li>
-        <li class="px-4">Home</li>
+        <a href="/"> <li class="px-4">Home</li></a>
+        <a href="/"> <li class="px-4">Home</li></a>
         <a href="./Portfolio">
           <li class="px-4">
             Portfolio
           </li></a
         >
-        <li class="px-4">Home</li>
-        <li class="px-4">Home</li>
-        <li class="px-4">Home</li>
+        <a href="/"> <li class="px-4">Home</li></a>
+        <a href="/"> <li class="px-4">Home</li></a>
+        <a href="/"> <li class="px-4">Home</li></a>
       </ol>
     </div>
   </nav>
